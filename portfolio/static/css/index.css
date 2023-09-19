@@ -1,0 +1,166 @@
+*{
+    background-color:black;
+    color: white;
+}
+body{
+    background: lightblue;
+    padding: 2vh;
+}
+
+.container .navi{
+padding-top: 5vh;
+padding-left: 5vw;
+}
+
+#Second{
+padding-top: 15vh;
+}
+
+#Second .navi{
+padding-top: 5vh;
+padding-left: 5vw;
+}
+
+.container{
+    padding-bottom: 4vh;
+}
+
+#navi{
+    background-color: grey;
+}
+
+.subheading{
+padding: 5vh;
+}
+
+.profile {
+padding-top: 0;
+padding-left: 2vw;
+padding-bottom: 5vh;
+background: light-black;
+font-size: 70px;
+font-weight: bold;
+font-family:fangsong;
+ text-align: center;
+            font-size: 50px;
+            background: linear-gradient(to left,
+                    violet,
+                    indigo,
+                    blue,
+                    green,
+                    yellow,
+                    orange,
+                    red);
+            -webkit-background-clip: text;
+            color: transparent;
+}
+
+#row{
+padding-top: 10vh;
+padding-right: 20vh;
+padding-left: 20vh;
+}
+
+#row3{
+padding-top: 1vh;
+padding-right: 20vh;
+padding-left: 20vh;
+}
+
+#row1{
+padding-bottom: 1vh;
+margin-top: -4%;
+padding-right: 20vh;
+padding-left: 9.9vw;
+}
+
+#row2{
+padding-bottom: 1vh;
+margin-top: 2%;
+padding-right: 20vh;
+padding-left: 9.9vw;
+}
+
+#row1 div div{
+padding-top: 1vh;
+padding-left: 0vw;
+}
+
+#row2 div div{
+padding-top: 1vh;
+padding-left: 0vw;
+}
+
+#details,#details1 {
+padding-top: 4vh;
+padding-left: 1vw;
+}
+
+#details3 {
+padding-top: 1vh;
+padding-left: 0vw;
+padding-right: 2vw;
+}
+
+#details3 .col{
+padding: 2vh;
+}
+
+#details3 .col label{
+text-shadow: red 1px 1px;
+font-size: 18;
+}
+
+#details2 .col label{
+text-shadow: red 1px 1px;
+font-size: 18;
+}
+
+#details2 {
+padding-top: 0.5vh;
+padding-left: 6vh;
+}
+
+#details2 .col{
+padding: 2vh;
+}
+
+#details label,#details1 label, #row1 div label{
+font-size: 20px;
+font-weight: bold;
+}
+
+#image-holder{
+padding-bottom: 0vh;
+}
+
+#image-holder img{
+filter: drop-shadow(18px 15px 10px grey);
+}
+
+#About, #Services{
+text-shadow: red 1px 3px;
+}
+
+.offcanvas-body{
+padding-top: 6vh;
+}
+
+.offcanvas-body hr{
+margin-left:1vw;
+}
+
+.offcanvas-body a{
+color: white;
+text-decoration: none;
+padding-left: 2vw;
+}
+
+#First{
+visible: true;
+}
+
+#container2{
+padding-left: 7vw;
+padding-right: 7vw;
+}
